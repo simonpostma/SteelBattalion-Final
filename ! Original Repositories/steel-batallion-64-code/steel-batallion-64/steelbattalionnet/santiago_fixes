@@ -1,0 +1,66 @@
+303c303
+< 			get { return (int) rawControlData[13]; }
+---
+>             get { return (int)unchecked((sbyte)rawControlData[13]); }
+310c310
+< 			get { return (int) rawControlData[15]; }
+---
+>             get { return (int)unchecked((sbyte)rawControlData[15]); }
+317c317
+< 			get { return (int) rawControlData[17]; }
+---
+>             get { return (int)unchecked((sbyte)rawControlData[17]); }
+367c367
+< 			get { return (int) rawControlData[25]; }
+---
+>             get { return (int)unchecked((sbyte)rawControlData[25]); }
+389c389,435
+< 	}
+---
+>         private static string GetIntBinaryString(int n)
+>         {
+>             char[] b = new char[8];
+>             int pos = 7;
+>             int i = 0;
+> 
+>             while (i < 8)
+>             {
+>                 if ((n & (1 << i)) != 0)
+>                 {
+>                     b[pos] = '1';
+>                 }
+>                 else
+>                 {
+>                     b[pos] = '0';
+>                 }
+>                 pos--;
+>                 i++;
+>             }
+>             return new string(b);
+>         }
+> 
+>         /// <summary>
+>         /// Function to convert a byte array to a binary representation string
+>         /// </summary>
+>         /// <param name="asciiString">Byte array containing the actual byte values to convert</param>
+>         /// <param name="start">the starting position of the bytes to convert</param>
+>         /// <param name="end">the end position of the bytes to convert</param>
+>         /// <returns></returns>
+>         public string ConvertToBinary(byte[] asciiString, int start, int end)
+>         {
+>             StringBuilder bin = new StringBuilder();
+>             int startIndex = start;
+>             int endIndex    = end;
+>             if (startIndex < 0)
+>                 startIndex  =   0;
+>             if (end >= asciiString.Length)
+>                 endIndex    =   asciiString.Length;
+>             for (int i = startIndex; i <= endIndex; i++)
+>             {
+>                 bin.Append(GetIntBinaryString(asciiString[i]));//radix 2
+>                 bin.Append(" ");
+>             }
+>             bin.Append("\n");
+>             return bin.ToString();
+>         }
+>     }

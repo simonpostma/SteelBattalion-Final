@@ -1,0 +1,52 @@
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe.config
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.pdb
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\LibUsbDotNet.dll
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Microsoft.DirectX.DirectInput.dll
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Microsoft.DirectX.dll
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\LibUsbDotNet.xml
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Microsoft.DirectX.DirectInput.xml
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Microsoft.DirectX.xml
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Form1.resources
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Properties.Resources.resources
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.csproj.GenerateResource.Cache
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.pdb
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.dll
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.pdb
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.xml
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe.config
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe.manifest
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.application
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.dll
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.pdb
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.xml
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Form1.resources
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Properties.Resources.resources
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.csproj.GenerateResource.Cache
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.TrustInfo.xml
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.exe.manifest
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.application
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.csprojResolveAssemblyReference.cache
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WinUSBNet.dll
+C:\Users\salds_000\Documents\Visual Studio 2013\Projects\steel_batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WinUSBNet.xml
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe.config
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe.manifest
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.application
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.dll
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WinUSBNet.dll
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.pdb
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WindowsInput.xml
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\bin\x86\Release\WinUSBNet.xml
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.csprojResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Form1.resources
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Properties.Resources.resources
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.csproj.GenerateResource.Cache
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.TrustInfo.xml
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.exe.manifest
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.application
+C:\Users\Santiago\Documents\Visual Studio 2015\Projects\SBC\ steel-batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.exe

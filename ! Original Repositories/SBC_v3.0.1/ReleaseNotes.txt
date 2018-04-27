@@ -1,0 +1,6 @@
+v3.0.1 - 1/23/2016
+Updates:
+Updated installer to include latest version of vJoy.  Should see no more warnings during install.  This has also been tested on Windows 10.
+
+Bugs:
+Fixed issue where backspace wasn't being emulated correctly.

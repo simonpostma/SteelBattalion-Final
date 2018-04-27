@@ -1,0 +1,11 @@
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe.config
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\Steel_Batallion_64_v2.pdb
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\LibUsbDotNet.dll
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\bin\x86\Release\LibUsbDotNet.xml
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Form1.resources
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.Properties.Resources.resources
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\SBC.csproj.GenerateResource.Cache
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.exe
+C:\Users\Santiago\Documents\Visual Studio 2008\Projects\Steel-Batallion-64\Steel_Batallion_64_v2\obj\x86\Release\Steel_Batallion_64_v2.pdb
